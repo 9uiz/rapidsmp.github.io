@@ -9,10 +9,10 @@
 const CONFIG = {
   discordUrl: "#",                                  // TODO: your Discord invite link
   downloadFile: "downloads/RapidSMP-Horror-2.4.1.zip",
-  packVersion: "2.4.0",
+  packVersion: "2.4.1",
   mcVersion: "1.21.4",
   loader: "Fabric",
-  fileSize: "2.1 MB",
+  fileSize: "16.1 MB",
   virustotalUrl: "https://www.virustotal.com/gui/file/fbdfb678e4d3eb580d6b955bcfcd6fdcc63c2c1fd8cd44f8ad65564c8e7954d4",
 };
 
@@ -322,7 +322,7 @@ const I18N = {
 
     "dl.eyebrow": "Get the pack",
     "dl.title": "Download the Modpack",
-    "dl.button": "Download RapidSMP – Horror 2.4.0",
+    "dl.button": "Download RapidSMP – Horror 2.4.1",
     "dl.vtText": "No security vendors flagged this file as malicious on VirusTotal.",
     "dl.vtLink": "View the full report",
     "dl.note": "After downloading, open the CurseForge app and import the zip: <strong>Minecraft → Create Custom Profile → Import</strong>.",
@@ -330,7 +330,7 @@ const I18N = {
     "install.eyebrow": "Getting started",
     "install.title": "How to Install",
     "install.s1t": "Download the Pack",
-    "install.s1p": "Get <strong>RapidSMP-Horror-2.4.0.zip</strong> from the <a href=\"#download\">download section</a> above.",
+    "install.s1p": "Get <strong>RapidSMP-Horror-2.4.1.zip</strong> from the <a href=\"#download\">download section</a> above.",
     "install.s2t": "Install the CurseForge App",
     "install.s2p": "Download the official CurseForge app from <a href=\"https://www.curseforge.com/download/app\" target=\"_blank\" rel=\"noopener\">curseforge.com/download</a> and install it.",
     "install.s3t": "Import the Zip",
@@ -427,7 +427,7 @@ const I18N = {
 
     "dl.eyebrow": "Paketi edin",
     "dl.title": "Modpack'i İndir",
-    "dl.button": "RapidSMP – Horror 2.4.0'ı İndir",
+    "dl.button": "RapidSMP – Horror 2.4.1'ı İndir",
     "dl.vtText": "VirusTotal'da hiçbir güvenlik sağlayıcısı bu dosyayı zararlı olarak işaretlemedi.",
     "dl.vtLink": "Tam raporu görüntüle",
     "dl.note": "İndirdikten sonra CurseForge uygulamasını aç ve zip'i içe aktar: <strong>Minecraft → Create Custom Profile → Import</strong>.",
@@ -435,7 +435,7 @@ const I18N = {
     "install.eyebrow": "Başlamak için",
     "install.title": "Nasıl Kurulur?",
     "install.s1t": "Paketi İndir",
-    "install.s1p": "Yukarıdaki <a href=\"#download\">indirme bölümünden</a> <strong>RapidSMP-Horror-2.4.0.zip</strong> dosyasını indir.",
+    "install.s1p": "Yukarıdaki <a href=\"#download\">indirme bölümünden</a> <strong>RapidSMP-Horror-2.4.1.zip</strong> dosyasını indir.",
     "install.s2t": "CurseForge Uygulamasını Kur",
     "install.s2p": "<a href=\"https://www.curseforge.com/download/app\" target=\"_blank\" rel=\"noopener\">curseforge.com/download</a> adresinden resmi CurseForge uygulamasını indirip kur.",
     "install.s3t": "Zip'i İçe Aktar",
